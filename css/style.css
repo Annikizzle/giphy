@@ -1,0 +1,50 @@
+#header {
+	background-image: url("../assets/images/bg.jpg");
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	font-family: "Monoton", cursive;
+}
+
+#subtitle {
+	font-family: "Luckiest Guy";
+	font-size: 20px;
+	color: indigo;
+	text-align: center;
+}
+
+label {
+	font-size: 25px;
+}
+
+#buttons {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: aqua;
+	border-color: indigo;
+	border-width: 5px;
+	color: indigo;
+	font-size: 20px;
+	align-content: center
+}
+
+#gifSearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Bangers";
+	color: hotpink;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.themeGiphy {
+	padding: 2px;
+	width: 80%;
+}
